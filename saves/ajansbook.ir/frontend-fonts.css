@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "MolsaqArabic-ExtraBold";
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/media/iranyekanwebbold.92d6ffc1.eot);
+    src: url(../fonts/media/iranyekanwebbold.92d6ffc1.eot) format("embedded-opentype"),
+    url(../fonts/media/iranyekanwebbold.9be2c236.woff2) format("woff2"),
+    url(../fonts/media/iranyekanwebbold.6e8ebb8e.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    src: url(../fonts/media/iranyekanweblight.dfdc6e89.eot);
+    src: url(../fonts/media/iranyekanweblight.dfdc6e89.eot) format("embedded-opentype"),
+    url(../fonts/media/iranyekanweblight.c61fd368.woff2) format("woff2"),
+    url(../fonts/media/iranyekanweblight.52efa674.woff) format("woff"),
+    url(../fonts/media/iranyekanweblight.6906da26.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/media/iranyekanwebregular.74500baf.eot);
+    src: url(../fonts/media/iranyekanwebregular.74500baf.eot) format("embedded-opentype"),
+    url(../fonts/media/iranyekanwebregular.e46ea675.woff2) format("woff2"),
+    url(../fonts/media/iranyekanwebregular.0974083c.woff) format("woff"),
+    url(../fonts/media/iranyekanwebregular.e4f82d0d.ttf) format("truetype");
+}
+@font-face {
+    font-family: Vazir;
+    src: url(../fonts/FlowBold_MRT.woff2) format("woff2");
+}
