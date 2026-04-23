@@ -111,9 +111,8 @@ def listMenu(storage: StorageManager):
     print()
 
 
-# ==========================
+
 # MAIN PROGRAM FLOW
-# ==========================
 
 storage = StorageManager()
 scraper = WebScraper()
